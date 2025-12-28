@@ -37,7 +37,7 @@ how to navigate the architecture
 
 where each component belongs in the system
 
-Interpretation Note:
+2-alpha: Interpretation Note:
 All structures here describe relational patterns, not executable laws.
 They may be entered, exited, partially applied, or ignored without repair.
 Local coherence takes precedence over global consistency.
@@ -245,3 +245,4 @@ END OF META DOCUMENT
 CC0 PUBLIC DOMAIN
 
 Free to fork, modify, repackage, or embed into future cognitive architectures.
+
