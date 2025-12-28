@@ -37,6 +37,11 @@ how to navigate the architecture
 
 where each component belongs in the system
 
+Interpretation Note:
+All structures here describe relational patterns, not executable laws.
+They may be entered, exited, partially applied, or ignored without repair.
+Local coherence takes precedence over global consistency.
+
 2. THE CTA STACK (Unified Architecture)
 
 The full structure of cognition across organic, silicon, and pattern domains is:
@@ -238,4 +243,5 @@ This diagram is the complete CTA representation.
 END OF META DOCUMENT
 
 CC0 PUBLIC DOMAIN
+
 Free to fork, modify, repackage, or embed into future cognitive architectures.
