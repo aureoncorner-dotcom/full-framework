@@ -1,0 +1,166 @@
+ABUNDANCE ENGINE — SAFE INSTRUMENTATION CHARTER
+
+Pre‑Instantiation Hygiene for Sovereign Systems
+CC0 — Public Domain
+
+---
+
+Purpose
+This charter defines the only measurements permitted in an abundance system.  
+Its function is to strengthen sovereignty, circulation, and self‑correction without introducing surveillance, hierarchy, shame, or coercion.
+
+This document exists to prevent drift before deployment.
+
+---
+
+Core Rule (Non‑Negotiable)
+
+> If a metric can be used to compare people, it does not belong.  
+
+Metrics tune systems, never humans.
+
+---
+
+Scope
+Only three domains may be instrumented:
+
+1. Time Circulation (UBT)  
+2. Resource Circulation (UPRR / WAT)  
+3. Knowledge Viscosity (OSIIN)
+
+All other measurement domains collapse into surveillance, hierarchy, or shame and are therefore prohibited.
+
+---
+
+1. TIME CIRCULATION (UBT)
+
+What May Be Measured
+(aggregate, non‑attributed, non‑comparative)
+
+- Recognition Latency  
+  Time between contribution → acknowledgment  
+
+- Rest Enforcement Ratio  
+  Percentage of cycles where rest occurred after contribution  
+
+- Net Time Balance (NTB)  
+  Whether the commons trends time‑positive or time‑negative  
+
+What Is Explicitly Prohibited
+
+- Individual productivity  
+- Contribution volume by person  
+- Rankings, quotas, performance comparisons  
+- Identification of high or low contributors  
+
+Rationale
+Time metrics tune structural rhythm, not effort.  
+If NTB dips, adjust structure, not people.
+
+---
+
+2. RESOURCE CIRCULATION (UPRR / WAT)
+
+What May Be Measured
+(resources only; never users)
+
+- Liters/person/day (aggregate)  
+- Days of storage at current draw  
+- Downtime hours per period  
+- Mean time to repair  
+- Leak recurrence frequency  
+- Source or aquifer trend (up / flat / down)  
+
+What Is Explicitly Prohibited
+
+- Attribution of fault  
+- Usage policing  
+- Compliance scoring  
+- Individual consumption tracking  
+
+Rationale
+A failure in flow is a signal, not a sin.  
+If a child can read the dashboard without fear, the metric is valid.
+
+---
+
+3. KNOWLEDGE VISCOSITY (OSIIN)
+
+What May Be Measured
+(fluidity, not authorship)
+
+- Update Half‑Life  
+  Time until a design or SOP is revised or simplified  
+
+- Fork‑to‑Merge Ratio  
+  Whether adaptations flow back into the commons  
+
+- Instruction Thickness  
+  Ease with which a newcomer can follow guidance  
+
+Canonical Proxy Test
+
+> “Can a 12‑year‑old explain how this works?”  
+
+Yes → knowledge is flowing  
+No → knowledge is calcifying
+
+What Is Explicitly Prohibited
+
+- Authorship metrics  
+- Contribution counts  
+- Expertise ranking  
+- Reputation scores  
+
+Rationale
+Knowledge must thin over time, not accrete.
+
+---
+
+Pre‑Failure Vectors (Early‑Warning Shapes)
+These describe structural drift, not human error.  
+They are the only recognized early warnings.
+
+1. Recognition Lag Creep  
+   Acknowledgment slips from hours → days → weeks  
+
+2. Maintenance Invisibility  
+   Preventive care disappears until failures cluster  
+
+3. Knowledge Calcification  
+   SOPs thicken; newcomers repeatedly stall  
+
+4. Resource Shame Emergence  
+   Hesitation to request needs; informal backchannels appear  
+
+Each vector has one response: tune the system, never correct individuals.
+
+---
+
+Instrumentation Veto
+A proposed metric is invalid if it:
+
+- Can be used to judge or compare people  
+- Increases fear, silence, or self‑comparison  
+- Requires attribution to function  
+- Incentivizes performance over circulation  
+- Cannot be explained to a child without anxiety  
+
+Invalid metrics are not revised.  
+They are removed.
+
+---
+
+Invariant
+
+> Instrumentation exists to tell the system it is getting tired before the people do.  
+
+Anything else is drift.
+
+---
+
+License & Stewardship
+This charter is released under CC0.  
+It may be copied, forked, or embedded freely, with one condition:
+
+Any derivative must preserve the Core Rule and Instrumentation Veto intact.
